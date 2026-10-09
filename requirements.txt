@@ -1,0 +1,8 @@
+# 核心零依赖（仅 Python 标准库），无需安装任何包即可运行演示。
+
+# ---- 可选：真实文档解析（PDF / DOCX）----
+# docling>=2.0
+
+# ---- 可选：图片文字识别（OCR）----
+# paddleocr
+# paddlepaddle

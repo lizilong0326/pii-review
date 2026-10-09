@@ -1,0 +1,19 @@
+# 密钥与本机状态（不提交）
+.state/
+out/
+*.redacted.txt
+*.audit.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 测试缓存
+.pytest_cache/
+.mypy_cache/
+
+# 系统
+.DS_Store
